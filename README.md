@@ -13,6 +13,7 @@
 - 🌱 I’m currently persuing B.tech in CSE.
 - 📫 How to reach me 📧ashu.saxena148@gmail.com 
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
