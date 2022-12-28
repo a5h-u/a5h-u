@@ -9,9 +9,6 @@
                                                           
                                                              
 - 👋 Hi, I’m Ashutosh Saxena
-- 👀 I’m interested in cyber-security and ethical hacking.
-- 🌱 I’m currently persuing B.tech in CSE
-- 📫 How to reach men 📧ashu.saxena148@gmail.com
-                                                             
-
-
+- 👀 I’m interested in cyber-security and web penetration testing.
+- 🌱 I’m currently persuing B.tech in CSE.
+- 📫 How to reach me 📧ashu.saxena148@gmail.com 
