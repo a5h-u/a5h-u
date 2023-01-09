@@ -18,8 +18,10 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" title="kali linux" alt="kali linux" width="40" height="40"/>&nbsp;
   <img src="https://www.kindpng.com/picc/m/206-2064380_burp-suite-icon-png-transparent-png.png" title="Burpsuite"  alt="Burpsuite" width="60" height="40"/>&nbsp;
