@@ -23,9 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
   <p># Tools</p>
-  <img src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" title="kali linux" alt="kali linux" width="40" height="40"/>&nbsp;
   <img src="https://www.kindpng.com/picc/m/206-2064380_burp-suite-icon-png-transparent-png.png" title="Burpsuite"  alt="Burpsuite" width="60" height="40"/>&nbsp;
   <img src="https://nmap.org/images/nmap-logo-256x256.png" title="nmap" alt="nmap" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/708/366/png-transparent-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark.png" title="wireshark" alt="wireshark" width="40" height="40"/>&nbsp;
   <img src="https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.jpg" title="Aircrack-ng" alt="Aircrack-ng" width="60" height="40"/>&nbsp;
 </div>
