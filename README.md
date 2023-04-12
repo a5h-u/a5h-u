@@ -3,7 +3,7 @@
 
   <h1 align="center">Hi 👋, I'm Ashutosh Saxena</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" height="400"/>
   
 - 📖 I am currently persuing **B.Tech(CSE)** 
 - 📬 How to reach me **ashu.saxena148@gmail.com**
@@ -18,7 +18,7 @@
 <br>
   <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a5h-u&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a5h-u&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5h-u&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5h-u&layout=compact&theme=tokyonight&hide_bordor=true)](https://github.com/anuraghazra/github-readme-stats)
