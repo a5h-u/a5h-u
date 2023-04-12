@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Saxena</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/63958094/231560728-19fcde45-8cc1-4c95-8197-257bf9874819.png">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a5h-u&label=Profile%20views&color=0e75b6&style=flat" alt="a5h-u" /> </p>
 
 - 📫 How to reach me **ashu.saxena148@gmail.com**
