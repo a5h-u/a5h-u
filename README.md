@@ -1,10 +1,9 @@
 <a href="https://komarev.com/ghpvc/?username=a5h-u">
-<img align="right" src="https://komarev.com/ghpvc/?username=a5h-u&style=flat-square&color=blue" alt=""/> 
-
+  <img align="right" src="https://komarev.com/ghpvc/?username=a5h-u&label=Profile%20views&color=ff8000&style=flat-square" alt="a5h-u" />
 
 <h1 align="center">Hi 👋, I'm Ashutosh Saxena</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300"/>
+<img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="200"/>
 
 - 📫 How to reach me **ashu.saxena148@gmail.com**
 
