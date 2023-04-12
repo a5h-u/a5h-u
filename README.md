@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashutosh Saxena</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="200"/>
+<img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="200"/>
 
 - 📫 How to reach me **ashu.saxena148@gmail.com**
 
