@@ -26,5 +26,4 @@
   <p># Tools</p>
   <img src="https://www.kindpng.com/picc/m/206-2064380_burp-suite-icon-png-transparent-png.png" title="Burpsuite"  alt="Burpsuite" width="60" height="40"/>&nbsp;
   <img src="https://nmap.org/images/nmap-logo-256x256.png" title="nmap" alt="nmap" width="40" height="40"/>&nbsp;
-  <img src="https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.jpg" title="Aircrack-ng" alt="Aircrack-ng" width="60" height="40"/>&nbsp;
 </div>
